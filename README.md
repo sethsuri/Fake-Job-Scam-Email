@@ -99,5 +99,3 @@ If you come across scams like this, report them to prevent others from being tar
 
 ## 🎯 Conclusion
 This investigation highlights the importance of **OSINT in cybersecurity and job scam prevention**. By staying informed and using verification tools, we can better protect ourselves and others from fraudulent schemes.
-
-💡 **#CyberSecurity #JobScam #OSINT #EthicalHacking #ThreatIntelligence**
